@@ -5,8 +5,10 @@
 React + TypeScript + Vite
 
 #### Description:
-This is a small project that generates a random quote based from a selection of famous individuals everytime you click the button.
-It also have the function to share said quote on the social media platform Twitter/X.
+This is a simple web app that generates a random quote everytime the user clicks the button.
+It also has the option to share the generated quote on the social media platform X/Twitter.
+
+![alt text](https://github.com/RhythmP09/FCC-random-quote-machine/blob/master/demo.png)
 
 #### App URL:
 [Random Quote Machine](https://cert-proj1-rqm.netlify.app/)
