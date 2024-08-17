@@ -6,6 +6,7 @@ React + TypeScript + Vite
 
 #### Description:
 This is a simple web app that generates a random quote everytime the user clicks the button.
+
 It also has the option to share the generated quote on the social media platform X/Twitter.
 
 ![alt text](https://github.com/RhythmP09/FCC-random-quote-machine/blob/master/demo.png)
